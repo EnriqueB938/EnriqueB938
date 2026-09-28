@@ -5,7 +5,7 @@
 Soy un desarrollador en formación y entusiasta de la tecnología. Actualmente estoy trabajando en mis proyectos personales para aplicar mis conocimientos al mundo real y construyendo mi portfolio profesional.
 
 ## 🚀 Sobre mí
-- 🎓 Estudiante de 2º de Ingeniería Informática.
+- 🎓 Estudiante de 3º de Ingeniería Informática.
 - 💻 Desarrollando y practicando en entornos Linux (**Ubuntu en WSL**) y scripting en **Bash**.
 - 🌐 Construyendo bases sólidas en programación y desarrollo web con **Python, Java, HTML y CSS**.
 - ☀️ Aprovechando el verano para avanzar en proyectos personales y expandir mis conocimientos.
